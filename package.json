@@ -12,8 +12,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "changeset": "changeset",
-    "bump-versions": "changeset version"
+    "add-change": "changeset",
+    "bump-versions": "changeset version",
+    "release": "changeset tag && echo 'PUBLISHING NEW VERSIONS OURSELVES!'"
   },
   "workspaces": [
     "packages/*"
