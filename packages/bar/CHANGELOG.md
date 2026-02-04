@@ -1,5 +1,11 @@
 # bar
 
+## 2.0.1
+
+### Patch Changes
+
+- 3012fa2: A fix in bar package
+
 ## 2.0.0
 
 ### Major Changes
