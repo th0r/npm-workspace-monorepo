@@ -1,5 +1,11 @@
 # bar
 
+## 2.0.3
+
+### Patch Changes
+
+- c41ef07: Major change to foo and patch to bar
+
 ## 2.0.2
 
 ### Patch Changes
