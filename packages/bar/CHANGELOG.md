@@ -1,5 +1,11 @@
 # bar
 
+## 2.0.2
+
+### Patch Changes
+
+- e774b8a: Minor update in foo and patch in bar
+
 ## 2.0.1
 
 ### Patch Changes
